@@ -1,7 +1,7 @@
 fileFormatVersion: 2
-guid: 6a169727c45d31b4d96b60086dbc8f28
+guid: afc27faaf6c0043f7adb6b0f2bfb4956
 ModelImporter:
-  serializedVersion: 22103
+  serializedVersion: 22102
   internalIDToNameTable: []
   externalObjects: {}
   materials:
@@ -32,7 +32,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1
@@ -101,7 +101,6 @@ ModelImporter:
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   importBlendShapeDeformPercent: 1
-  remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
