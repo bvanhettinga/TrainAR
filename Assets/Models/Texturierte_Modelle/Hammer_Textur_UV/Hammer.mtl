@@ -1,0 +1,18 @@
+# Apple ModelI/O MTL File: Hammer.mtl
+
+newmtl Steel_-_Satin
+	map_Kd Steel_-_Satin-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Steel_-_Satin-metallic.png
+	specularTint 0
+	map_roughness Steel_-_Satin-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
