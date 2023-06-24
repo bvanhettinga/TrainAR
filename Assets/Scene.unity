@@ -2052,8 +2052,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 236eb514f52e7c14d8f6745cf93b787e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isGrabbable: 1
-  isInteractable: 1
+  isGrabbable: 0
+  isInteractable: 0
   isCombineable: 1
   interactableName: Pneumatikspanner_demontage
   TrainARObjectDisabled: 0
@@ -28199,8 +28199,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 236eb514f52e7c14d8f6745cf93b787e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isGrabbable: 1
-  isInteractable: 1
+  isGrabbable: 0
+  isInteractable: 0
   isCombineable: 1
   interactableName: Schraubstock
   TrainARObjectDisabled: 0
