@@ -1570,7 +1570,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.035, y: 0.035, z: 0.035}
+  m_Size: {x: 0.04, y: 0.06, z: 0.04}
   m_Center: {x: 0.0066057863, y: 0.040927913, z: -0.021059409}
 --- !u!64 &17130970
 MeshCollider:
@@ -1657,7 +1657,7 @@ Transform:
   m_GameObject: {fileID: 17130961}
   m_LocalRotation: {x: -0, y: -0, z: -0.24248917, w: 0.9701541}
   m_LocalPosition: {x: -0.044636555, y: 0.08897403, z: 0.42602366}
-  m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -19895,7 +19895,7 @@ Transform:
   m_GameObject: {fileID: 147927251}
   m_LocalRotation: {x: -0.019560637, y: -0.70623267, z: -0.16396238, w: 0.68845415}
   m_LocalPosition: {x: -0.0497, y: 0.0914, z: 0.3877}
-  m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -22705,7 +22705,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.025, y: 0.025, z: 0.05}
+  m_Size: {x: 0.03, y: 0.03, z: 0.06}
   m_Center: {x: 0.015058499, y: 0.025621999, z: 0.0579995}
 --- !u!64 &258614469
 MeshCollider:
@@ -22793,7 +22793,7 @@ Transform:
   m_GameObject: {fileID: 258614460}
   m_LocalRotation: {x: -0.1091427, y: -0.691545, z: -0.056070834, w: 0.71183527}
   m_LocalPosition: {x: -0.0481, y: 0.0863, z: 0.39319}
-  m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -26313,7 +26313,7 @@ Transform:
   m_GameObject: {fileID: 489943770}
   m_LocalRotation: {x: -0.00366732, y: -0.7010364, z: -0.1463323, w: 0.6979408}
   m_LocalPosition: {x: -0.0455, y: 0.09212375, z: 0.3871}
-  m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -45942,7 +45942,7 @@ Transform:
   m_GameObject: {fileID: 970488116}
   m_LocalRotation: {x: -0, y: -0.999989, z: -0, w: 0.004691104}
   m_LocalPosition: {x: -0.0042144773, y: -0.0025999546, z: 0.27600077}
-  m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -48878,7 +48878,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.025, y: 0.025, z: 0.05}
+  m_Size: {x: 0.03, y: 0.03, z: 0.06}
   m_Center: {x: 0.015058499, y: 0.025621999, z: 0.0579995}
 --- !u!64 &1126326735
 MeshCollider:
@@ -48966,7 +48966,7 @@ Transform:
   m_GameObject: {fileID: 1126326726}
   m_LocalRotation: {x: -0.1091427, y: -0.691545, z: -0.056070834, w: 0.71183527}
   m_LocalPosition: {x: -0.05754, y: 0.04212, z: 0.3548}
-  m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -51403,7 +51403,7 @@ Transform:
   m_GameObject: {fileID: 1369414912}
   m_LocalRotation: {x: -0.008102581, y: -0.7049617, z: -0.15829332, w: 0.6913079}
   m_LocalPosition: {x: -0.048489504, y: 0.0895, z: 0.38832042}
-  m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -52585,7 +52585,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.025, y: 0.025, z: 0.05}
+  m_Size: {x: 0.03, y: 0.03, z: 0.06}
   m_Center: {x: 0.015058499, y: 0.025621999, z: 0.0579995}
 --- !u!64 &1391368835
 MeshCollider:
@@ -52673,7 +52673,7 @@ Transform:
   m_GameObject: {fileID: 1391368826}
   m_LocalRotation: {x: -0.1091427, y: -0.691545, z: -0.056070834, w: 0.71183527}
   m_LocalPosition: {x: -0.0481, y: 0.0863, z: 0.35387}
-  m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -53889,7 +53889,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.025, y: 0.025, z: 0.05}
+  m_Size: {x: 0.03, y: 0.03, z: 0.06}
   m_Center: {x: 0.015058499, y: 0.025621999, z: 0.0579995}
 --- !u!64 &1428364220
 MeshCollider:
@@ -53977,7 +53977,7 @@ Transform:
   m_GameObject: {fileID: 1428364211}
   m_LocalRotation: {x: -0.1091427, y: -0.691545, z: -0.056070834, w: 0.71183527}
   m_LocalPosition: {x: -0.05754, y: 0.04317, z: 0.39396}
-  m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
